@@ -1,0 +1,15 @@
+The PyCitySchools analysis aims to provide a comprehensive overview of the academic performance and budgetary allocations across various schools in the district. By aggregating and analyzing data on student performance in math and reading, as well as school-level budget information, this report identifies trends and insights that can guide decision-making regarding resource allocation and educational strategies.
+
+Key metrics such as average test scores, passing rates, and budget per student were calculated for the district and for individual schools. The analysis also segmented school performance by various factors, including school spending, school size, and school type, to uncover patterns that may influence student outcomes.
+
+Impact of Per Student Budget on Performance:
+
+The analysis reveals a positive correlation between the budget allocated per student and the overall academic performance. Schools with higher per-student spending generally showed better average scores in both math and reading. For instance, schools within the highest spending range ($645-680) achieved an average math score of 85.0 and a reading score of 88.5, which is significantly higher than the scores from schools in the lower spending range.
+
+This finding suggests that higher investment in individual students may contribute to improved academic outcomes, potentially through better resources, more qualified teachers, or enhanced learning environments.
+
+School Size and Academic Performance:
+
+Another key finding from the analysis is the relationship between school size and student performance. Smaller schools (with fewer than 1,000 students) exhibited higher passing rates compared to larger schools. For example, small schools had an average passing rate of 91% in math, whereas large schools (2,000-5,000 students) had a passing rate of 73%.
+
+This indicates that smaller schools might offer a more supportive and personalized learning environment, which could lead to better student outcomes. The lower student-to-teacher ratio in smaller schools might be a contributing factor to this trend.
