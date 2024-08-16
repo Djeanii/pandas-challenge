@@ -16,7 +16,8 @@ top_schools.csv: A list of the top-performing schools based on overall passing p
 bottom_schools.csv: A list of the lowest-performing schools based on overall passing percentage.
 math_scores_by_grade.csv: A breakdown of average math scores by grade level for each school.
 reading_scores_by_grade.csv: A breakdown of average reading scores by grade level for each school.
-spending_summary.csv: A summary of school performance based on per-student spending ranges.
+(Incomplete)spending_summary.csv: A summary of school performance based on per-student spending ranges.
+    - Ran into an error where "Per Student Budget", could not be properly put in bins. This led to 'NaN' being displayed.
 size_summary.csv: A summary of school performance based on school size.
 type_summary.csv: A summary of school performance based on school type.
 
